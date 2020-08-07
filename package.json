@@ -1,0 +1,23 @@
+{
+  "name": "requestapi",
+  "version": "1.0.0",
+  "description": "Request API App for Retrieving Information",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Khattech"
+  },
+  "keywords": [
+    "NODEJS",
+    "EXPRESSJS",
+    "REQUEST"
+  ],
+  "author": "SHIVAM KHATTRI",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
